@@ -1,0 +1,17 @@
+.footer__content{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-items: end;
+    align-items: center;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer__content > p {
+    font-family: var(--FonteTextos);
+    color: white;
+    font-size: small;
+}

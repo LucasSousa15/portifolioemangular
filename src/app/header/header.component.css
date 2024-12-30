@@ -1,0 +1,24 @@
+.menu__container {
+    display: flex;
+    flex-direction: row;
+
+    align-items: right;
+    justify-content: right;
+    top:0;
+}
+
+a {
+    font-family:var(--Fontetitulos);
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    margin:0px 5px;
+
+}
+
+a:hover {
+    font-family:var(--Fontetitulos);
+    color: var(--cor04);
+    background-color: white;
+
+}
