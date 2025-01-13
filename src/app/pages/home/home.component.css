@@ -3,6 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
 }
+  
 
 .home__container {
     background-color: transparent;
@@ -12,6 +13,7 @@
     align-items: center;
     justify-content: center;
     width: 100%;
+    
     
 }
 
@@ -88,3 +90,4 @@ p {
 .cv > a:hover {
     color:var(--cor01)
 }
+

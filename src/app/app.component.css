@@ -2,10 +2,13 @@
     display: flex;
     flex: 1;
     flex-direction: column;
+    background-color: transparent;
 }
 
 .home {
+    background-color: transparent;
     overflow: hidden;
     top: 0;
     left: 0;
 }
+
